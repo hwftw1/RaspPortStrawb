@@ -1,0 +1,17 @@
+nltk>=3.7
+numpy>=1.19.5
+oauthlib>=3.2.0
+opencv-python>=4.5.5.62
+opt-einsum>=3.3.0
+packaging>=21.3
+pandas>=1.1.5
+pip>=21.1.2
+progress>=1.6
+protobuf>=3.19.4
+py-cpuinfo>=8.0.0
+pyasn1>=0.4.8
+pyasn1-modules>=0.2.8
+pydicom>=2.2.2
+pymongo>=4.0.2
+pyparsing>=3.0.7
+python-dateutil>=2.8.2
